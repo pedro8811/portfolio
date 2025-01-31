@@ -2,3 +2,13 @@ html,
 body {
   font-family: 'Roboto', sans-serif !important;
 }
+:root {
+  --brand-primary: black;
+}
+.btn {
+  border: 1px solid transparent !important;
+  border-radius: 0 !important;
+}
+.btn-primary {
+  background-color: var(--brand-primary) !important;
+}

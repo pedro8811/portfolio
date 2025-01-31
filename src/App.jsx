@@ -145,12 +145,9 @@ function App() {
                 <div className='card-body'>
                   <h5 className='card-title'>Site Multi Imobiliária</h5>
                   <p className='card-text'>
-                    Site Imobiliário desenvolvido com React, oferecendo uma experiência moderna na
-                    busca de imóveis. O projeto combina Material UI e Bootstrap para uma interface
-                    responsiva e elegante, com recursos de filtragem avançada de propriedades,
-                    galeria de imagens dinâmica e formulário de contato integrado. Implementei
-                    componentização eficiente e hooks personalizados para otimizar o gerenciamento
-                    de estado da aplicação.
+                    Site imobiliário desenvolvido em React com interface responsiva, sistema de
+                    busca e filtragem de imóveis. Utiliza Material UI e Bootstrap para estilização e
+                    componentes reutilizáveis.
                   </p>
                   <a href='https://www.multi.com.br/' className='btn btn-primary'>
                     Ver Projeto
@@ -164,7 +161,11 @@ function App() {
                 <img src={aguia} className='card-img-top' alt='Projeto 2' />
                 <div className='card-body'>
                   <h5 className='card-title'>Site Águia Seguros</h5>
-                  <p className='card-text'>Descrição do projeto a ser inserida.</p>
+                  <p className='card-text'>
+                    Landing page para corretora de seguros com design clean e responsivo.
+                    Desenvolvida com HTML, CSS e Bootstrap, focando em alta conversão e experiência
+                    do usuário.
+                  </p>
                   <a href='https://www.aguiaseguros.com/' className='btn btn-primary'>
                     Ver Projeto
                   </a>
@@ -177,7 +178,11 @@ function App() {
                 <img src={crm} className='card-img-top' alt='Projeto 3' />
                 <div className='card-body'>
                   <h5 className='card-title'>CRM para imobiliária</h5>
-                  <p className='card-text'>Descrição do projeto a ser inserida.</p>
+                  <p className='card-text'>
+                    CRM completo para corretores imobiliários com gerenciamento de imóveis, clientes
+                    e leads. Desenvolvido em React com dashboard interativo e sistema de
+                    notificações
+                  </p>
                   <a href='https://web.multi.com.br/' className='btn btn-primary'>
                     Ver Projeto
                   </a>
